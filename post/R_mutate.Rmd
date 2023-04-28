@@ -1,0 +1,49 @@
+---
+date: 2023-05-03T00:00:01-04:00
+description: "The mutate function is R"
+featured_image: ""
+categories: ["R"]
+tags: ["R", "mutate", "dplyr"]
+title: "R - mutate()"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, tidy.opts = list(width.cutoff = 60), tidy = TRUE)
+#options(width = 60)
+```
+
+R is a popular programming language used for data analysis and statistical computing. One of the most commonly used functions in R is the `mutate()` function, a part of the `dplyr` library, which is used to create new variables or modify existing variables in a data frame.
+
+A common problem that data analysts face are manipulating existing variables. For example, `R` comes with dataset mtcars, a data frame containing measurements on 11 different attributes for 32 different cars. You may want to create a new variable that calculates the ratio of weight to mpg. The `mutate()` function can be used to create this new variable easily, as shown in the code below:
+
+```{r, message=F}
+library(dplyr)
+data(mtcars)
+```
+
+```{r}
+head(mtcars)
+
+#adding the new variable
+df <- mtcars %>%
+  mutate(weight_mpg_ratio = wt/mpg)
+head(df)
+```
+
+The `mutate()` function can also be used to modify existing variables easily, as shown in the code below, where the weight to mpg ratio is multiplied by 100:
+
+```{r}
+#modifying the new variable
+df <- df %>%
+  mutate(weight_mpg_ratio = weight_mpg_ratio * 100)
+head(df)
+```
+
+One final use of the mutate() function is it's ability to rename variables. This can be useful if data analysts need to make their variable names more specific, or if they misspelled a variable name.
+
+```{r}
+#modifying the new variable
+df <- df %>%
+  mutate(weight_mpg_ratios = weight_mpg_ratio, weight_mpg_ratio = NULL)
+head(df)
+```

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Logan Rosentreter</title>
+    <link>https://LoRose2.github.io/post/</link>
+    <description>Recent content in Projects on Logan Rosentreter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Dec 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://LoRose2.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Actuarial Risk Models</title>
+      <link>https://LoRose2.github.io/post/senior_project/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:01 -0400</pubDate>
+      
+      <guid>https://LoRose2.github.io/post/senior_project/</guid>
+      <description>Modeling the aggregate claim amount where each claim amount is a random variable and the number of claims is also a random variable is important in actuarial science. We present a general class of distributions whose characteristics can be used to develop an ad-hoc procedure for determining which distribution is appropriate for the number of claims based on observed data. If the claim amounts take on only positive integer values, we derive the distribution of the aggregate claim amount.</description>
+    </item>
+    
+  </channel>
+</rss>

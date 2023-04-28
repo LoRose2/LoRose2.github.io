@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logan Rosentreter</title>
+    <link>https://LoRose2.github.io/</link>
+    <description>Recent content on Logan Rosentreter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Dec 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://LoRose2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Actuarial Risk Models</title>
+      <link>https://LoRose2.github.io/post/senior_project/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:01 -0400</pubDate>
+      
+      <guid>https://LoRose2.github.io/post/senior_project/</guid>
+      <description>Modeling the aggregate claim amount where each claim amount is a random variable and the number of claims is also a random variable is important in actuarial science. We present a general class of distributions whose characteristics can be used to develop an ad-hoc procedure for determining which distribution is appropriate for the number of claims based on observed data. If the claim amounts take on only positive integer values, we derive the distribution of the aggregate claim amount.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://LoRose2.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://LoRose2.github.io/about/</guid>
+      <description>I am a student at Southern Illinois University Edwardsville majoring in Actuarial Science. As an experienced actuary with 1 year of experience, I specialize in managing and mitigating risk for companies across a variety of industries. My expertise in statistical analysis, data modeling, and financial forecasting enables me to help organizations make informed decisions based on sound data analysis and financial planning.
+Throughout my career, I have developed a deep understanding of risk management, including pricing strategies, reserving, and capital management.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://LoRose2.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://LoRose2.github.io/contact/</guid>
+      <description>I&amp;rsquo;d love to hear from you. Here&amp;rsquo;s one way we can get in touch:
+Platform URL LinkedIn: https://www.linkedin.com/in/logan-rosentreter-102a65242/ </description>
+    </item>
+    
+  </channel>
+</rss>

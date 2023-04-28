@@ -1,5 +1,7 @@
 ### Hi there
 
+I am currently a student at SIUE majoring in Mathematics with a concentration in Actuarial Science
+
 <!--
 **LoRose2/LoRose2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
