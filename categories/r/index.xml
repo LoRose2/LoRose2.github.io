@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Logan Rosentreter</title>
+    <link>https://LoRose2.github.io/categories/r/</link>
+    <description>Recent content in R on Logan Rosentreter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:01 -0400</lastBuildDate><atom:link href="https://LoRose2.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>STAT 478 Interactive Prophet Model</title>
+      <link>https://LoRose2.github.io/post/stat478_prophet_model/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:01 -0400</pubDate>
+      
+      <guid>https://LoRose2.github.io/post/stat478_prophet_model/</guid>
+      <description>An interactive graph of the Prophet Model as performed in Logan and Zach’s STAT 478 Research Project.</description>
+    </item>
+    
+  </channel>
+</rss>

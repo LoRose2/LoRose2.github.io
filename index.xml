@@ -6,7 +6,16 @@
     <description>Recent content on Logan Rosentreter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Dec 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://LoRose2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:01 -0400</lastBuildDate><atom:link href="https://LoRose2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>STAT 478 Interactive Prophet Model</title>
+      <link>https://LoRose2.github.io/post/stat478_prophet_model/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:01 -0400</pubDate>
+      
+      <guid>https://LoRose2.github.io/post/stat478_prophet_model/</guid>
+      <description>An interactive graph of the Prophet Model as performed in Logan and Zach’s STAT 478 Research Project.</description>
+    </item>
+    
     <item>
       <title>Actuarial Risk Models</title>
       <link>https://LoRose2.github.io/post/senior_project/</link>
@@ -22,8 +31,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://LoRose2.github.io/about/</guid>
-      <description>I am a student at Southern Illinois University Edwardsville majoring in Actuarial Science. As an experienced actuary with 1 year of experience, I specialize in managing and mitigating risk for companies across a variety of industries. My expertise in statistical analysis, data modeling, and financial forecasting enables me to help organizations make informed decisions based on sound data analysis and financial planning.
-Throughout my career, I have developed a deep understanding of risk management, including pricing strategies, reserving, and capital management.</description>
+      <description>As a student at Southern Illinois University Edwardsville majoring in Actuarial Science, I am excited to start my career as an entry-level actuary. With a degree in Actuarial Science and strong proficiency in statistical analysis and programming software such as R, SAS, SQL, and Excel; I am able to tackle complex problems and provide effective solutions for risk management. I am competent contributing to a team environment, and look forward to developing my own skills and knowledge in the actuarial field.</description>
     </item>
     
     <item>

@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Dec 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://LoRose2.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>STAT 478 Interactive Prophet Model</title>
+      <link>https://LoRose2.github.io/post/stat478_prophet_model/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:01 -0400</pubDate>
+      
+      <guid>https://LoRose2.github.io/post/stat478_prophet_model/</guid>
+      <description>An interactive graph of the Prophet Model as performed in Logan and Zach’s STAT 478 Research Project.</description>
+    </item>
+    
+    <item>
       <title>Actuarial Risk Models</title>
       <link>https://LoRose2.github.io/post/senior_project/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:01 -0400</pubDate>

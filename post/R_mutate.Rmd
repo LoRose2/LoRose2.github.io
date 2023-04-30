@@ -1,5 +1,5 @@
 ---
-date: 2023-05-03T00:00:01-04:00
+date: 9999-05-03T00:00:01-04:00
 description: "The mutate function is R"
 featured_image: ""
 categories: ["R"]
