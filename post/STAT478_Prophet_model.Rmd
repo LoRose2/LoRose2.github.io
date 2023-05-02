@@ -10,5 +10,5 @@ title: "STAT 478 Interactive Prophet Model"
 An interactive graph of the Prophet Model as performed in Logan and Zach's STAT 478 Research Project.
 
 ```{r, echo=FALSE}
-htmltools::tags$iframe(title = "My embedded document", src = "/html/prophet.html", width="1000", height="800")
+htmltools::tags$iframe(title = "My embedded document", src = "/html/prophet.html", width="739", height="500")
 ```
