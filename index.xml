@@ -5,8 +5,17 @@
     <link>https://LoRose2.github.io/</link>
     <description>Recent content on Logan Rosentreter</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:01 -0400</lastBuildDate><atom:link href="https://LoRose2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Nov 2023 00:00:01 -0400</lastBuildDate><atom:link href="https://LoRose2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recipes</title>
+      <link>https://LoRose2.github.io/post/recipes/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:01 -0400</pubDate>
+      
+      <guid>https://LoRose2.github.io/post/recipes/</guid>
+      <description> </description>
+    </item>
+    
     <item>
       <title>STAT 478 Interactive Prophet Model</title>
       <link>https://LoRose2.github.io/post/stat478_prophet_model/</link>
