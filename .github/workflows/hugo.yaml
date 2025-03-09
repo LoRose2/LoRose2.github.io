@@ -57,11 +57,11 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with: 
-          name: my-artifact-${{ matrix.runs-on }}
-          path: file-${{ matrix.runs-on }}.txt
+          # name: my-artifact-${{ matrix.runs-on }}
+          path: ./public
+          # path: file-${{ matrix.runs-on }}.txt
         # uses: actions/upload-pages-artifact@v1
         # with:
-        #   path: ./public
 
   deploy:
     environment:
