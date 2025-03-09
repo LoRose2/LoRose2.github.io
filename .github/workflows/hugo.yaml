@@ -58,13 +58,10 @@ jobs:
         run: ls -l ./public
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with: 
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-pages
           path: ./public
-          # name: my-artifact-${{ matrix.runs-on }}
-          # path: file-${{ matrix.runs-on }}.txt
-        # uses: actions/upload-pages-artifact@v1
-        # with:
 
   deploy:
     environment:
