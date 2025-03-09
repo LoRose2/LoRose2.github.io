@@ -57,6 +57,13 @@ jobs:
       - name: Verify Hugo build output
         run: ls -l ./public
 
+      - name: Check for symlinks and large files
+        run: |
+          echo "Checking for symlinks..."
+          find ./public -type l
+          echo "Checking for large files..."
+          find ./public -type f -size +100M
+
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
