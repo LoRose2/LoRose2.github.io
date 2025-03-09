@@ -70,6 +70,15 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+          path: ./public
+
+      - name: Verify downloaded files
+        run: ls -l ./public
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
