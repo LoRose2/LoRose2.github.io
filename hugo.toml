@@ -23,6 +23,12 @@ enableEmoji = true
     [markup.goldmark.parser.attribute]
       block = true
 
+[[menu.primary]]
+    name  = "Docs"
+    url = "/docs/"
+    identifier = "docs"
+    weight = 10
+    
 [params.docs] 
   alwaysopen = true
   darkMode = true
