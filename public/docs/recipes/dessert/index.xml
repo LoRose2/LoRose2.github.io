@@ -1,26 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dessert on Logan Rosentreter</title>
-    <link>//localhost:1313/docs/recipes/dessert/</link>
-    <description>Recent content in Dessert on Logan Rosentreter</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 03 Mar 2025 21:15:29 -0600</lastBuildDate>
-    <atom:link href="//localhost:1313/docs/recipes/dessert/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Babe Ruth Bars</title>
-      <link>//localhost:1313/docs/recipes/dessert/babe-ruth-bars/</link>
-      <pubDate>Mon, 03 Mar 2025 21:15:29 -0600</pubDate>
-      <guid>//localhost:1313/docs/recipes/dessert/babe-ruth-bars/</guid>
-      <description>&lt;p&gt;15 minutes | 12 servings&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients &lt;a href=&#34;#ingredients&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 cup sugar&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 cup corn syrup&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1.5 cup peanut butter&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;4 cup rice crispies&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 cup chocolate chips&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 cup butterscotch chips&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;steps&#34;&gt;Steps &lt;a href=&#34;#steps&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;bring to a boil the sugar and corn syrup&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I think you have to cook it slowly or else it burns and the rice crispies are built like bricks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;add peanut butter and rice crispies&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;press into 9x13 pan&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Peanut Butter Pie</title>
-      <link>//localhost:1313/docs/recipes/dessert/peanut-butter-pie/</link>
-      <pubDate>Mon, 03 Mar 2025 21:15:29 -0600</pubDate>
-      <guid>//localhost:1313/docs/recipes/dessert/peanut-butter-pie/</guid>
-      <description>&lt;p&gt;20 minutes | 6 servings&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients &lt;a href=&#34;#ingredients&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;.5 cup peanut butter&lt;/li&gt;&#xA;&lt;li&gt;.5 cup powdered sugar&lt;/li&gt;&#xA;&lt;li&gt;1 block cream cheese&lt;/li&gt;&#xA;&lt;li&gt;1 container cool whip&lt;/li&gt;&#xA;&lt;li&gt;1 graham cracker crust&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;steps&#34;&gt;Steps &lt;a href=&#34;#steps&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;&#xA;&lt;li&gt;throw in bowl and blend it&lt;/li&gt;&#xA;&lt;li&gt;refrigerate it&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dessert on Logan Rosentreter</title><link>LoRose2.github.io/docs/recipes/dessert/</link><description>Recent content in Dessert on Logan Rosentreter</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 21:15:29 -0600</lastBuildDate><atom:link href="LoRose2.github.io/docs/recipes/dessert/index.xml" rel="self" type="application/rss+xml"/><item><title>Babe Ruth Bars</title><link>LoRose2.github.io/docs/recipes/dessert/babe-ruth-bars/</link><pubDate>Mon, 03 Mar 2025 21:15:29 -0600</pubDate><guid>LoRose2.github.io/docs/recipes/dessert/babe-ruth-bars/</guid><description>&lt;p>15 minutes | 12 servings&lt;/p>
+&lt;h2 id="ingredients">Ingredients &lt;a href="#ingredients" class="anchor" aria-hidden="true">&lt;i class="material-icons align-middle">link&lt;/i>&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>
+&lt;p>1 cup sugar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>1 cup corn syrup&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>1.5 cup peanut butter&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>4 cup rice crispies&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>1 cup chocolate chips&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>1 cup butterscotch chips&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="steps">Steps &lt;a href="#steps" class="anchor" aria-hidden="true">&lt;i class="material-icons align-middle">link&lt;/i>&lt;/a>&lt;/h2>&lt;ol>
+&lt;li>
+&lt;p>bring to a boil the sugar and corn syrup&lt;/p>
+&lt;ul>
+&lt;li>I think you have to cook it slowly or else it burns and the rice crispies are built like bricks&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>add peanut butter and rice crispies&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>press into 9x13 pan&lt;/p></description></item><item><title>Peanut Butter Pie</title><link>LoRose2.github.io/docs/recipes/dessert/peanut-butter-pie/</link><pubDate>Mon, 03 Mar 2025 21:15:29 -0600</pubDate><guid>LoRose2.github.io/docs/recipes/dessert/peanut-butter-pie/</guid><description>&lt;p>20 minutes | 6 servings&lt;/p>
+&lt;h2 id="ingredients">Ingredients &lt;a href="#ingredients" class="anchor" aria-hidden="true">&lt;i class="material-icons align-middle">link&lt;/i>&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>.5 cup peanut butter&lt;/li>
+&lt;li>.5 cup powdered sugar&lt;/li>
+&lt;li>1 block cream cheese&lt;/li>
+&lt;li>1 container cool whip&lt;/li>
+&lt;li>1 graham cracker crust&lt;/li>
+&lt;/ul>
+&lt;h2 id="steps">Steps &lt;a href="#steps" class="anchor" aria-hidden="true">&lt;i class="material-icons align-middle">link&lt;/i>&lt;/a>&lt;/h2>&lt;ol>
+&lt;li>throw in bowl and blend it&lt;/li>
+&lt;li>refrigerate it&lt;/li>
+&lt;/ol></description></item></channel></rss>

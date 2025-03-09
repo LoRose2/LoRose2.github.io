@@ -1,54 +1,100 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Logan Rosentreter</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on Logan Rosentreter</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 07 Mar 2025 13:01:15 -0600</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Chic Fil A</title>
-      <link>//localhost:1313/docs/recipes/copycat/chic-fil-a/</link>
-      <pubDate>Fri, 07 Mar 2025 13:01:15 -0600</pubDate>
-      <guid>//localhost:1313/docs/recipes/copycat/chic-fil-a/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Arrows Con Polo</title>
-      <link>//localhost:1313/docs/recipes/dinner/arroz-con-pollo/</link>
-      <pubDate>Mon, 03 Mar 2025 21:15:29 -0600</pubDate>
-      <guid>//localhost:1313/docs/recipes/dinner/arroz-con-pollo/</guid>
-      <description>&lt;p&gt;30 minutes | 4 servings&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;a href=&#34;#ingredients&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;4 tbsp olive oil&lt;/li&gt;&#xA;&lt;li&gt;3 chicken breasts&lt;/li&gt;&#xA;&lt;li&gt;2 tsp salt&lt;/li&gt;&#xA;&lt;li&gt;1/4 tsp black pepper&lt;/li&gt;&#xA;&lt;li&gt;1 chopped onion&lt;/li&gt;&#xA;&lt;li&gt;1 chopped green pepper&lt;/li&gt;&#xA;&lt;li&gt;1 chopped red pepper&lt;/li&gt;&#xA;&lt;li&gt;3 tsp garlic powder&lt;/li&gt;&#xA;&lt;li&gt;2 cups rice&lt;/li&gt;&#xA;&lt;li&gt;2 tsp cumin&lt;/li&gt;&#xA;&lt;li&gt;2.5 cups hot water&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;steps&#34;&gt;Steps &lt;a href=&#34;#steps&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;&#xA;&lt;li&gt;cook chicken in a pan till ready&lt;/li&gt;&#xA;&lt;li&gt;cook peppers and onions in a pan till ready&lt;/li&gt;&#xA;&lt;li&gt;cook rice in instant pot (add chicken and peppers and onions to instant pot)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I like chili lime seasoning with it&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Babe Ruth Bars</title>
-      <link>//localhost:1313/docs/recipes/dessert/babe-ruth-bars/</link>
-      <pubDate>Mon, 03 Mar 2025 21:15:29 -0600</pubDate>
-      <guid>//localhost:1313/docs/recipes/dessert/babe-ruth-bars/</guid>
-      <description>&lt;p&gt;15 minutes | 12 servings&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients &lt;a href=&#34;#ingredients&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 cup sugar&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 cup corn syrup&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1.5 cup peanut butter&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;4 cup rice crispies&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 cup chocolate chips&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1 cup butterscotch chips&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;steps&#34;&gt;Steps &lt;a href=&#34;#steps&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;bring to a boil the sugar and corn syrup&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I think you have to cook it slowly or else it burns and the rice crispies are built like bricks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;add peanut butter and rice crispies&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;press into 9x13 pan&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Korean ground Beef</title>
-      <link>//localhost:1313/docs/recipes/dinner/korean-ground-beef/</link>
-      <pubDate>Mon, 03 Mar 2025 21:15:29 -0600</pubDate>
-      <guid>//localhost:1313/docs/recipes/dinner/korean-ground-beef/</guid>
-      <description>&lt;p&gt;20 mins | 4 servings&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients &lt;a href=&#34;#ingredients&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;2 lb ground beef&lt;/li&gt;&#xA;&lt;li&gt;4 tsp Garlic Powder&lt;/li&gt;&#xA;&lt;li&gt;2 cups (spanish) rice&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;flavoring&#34;&gt;Flavoring &lt;a href=&#34;#flavoring&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;1 tbsp ginger&lt;/li&gt;&#xA;&lt;li&gt;2 tsp sesame oil&lt;/li&gt;&#xA;&lt;li&gt;1/2 cup soy sauce&lt;/li&gt;&#xA;&lt;li&gt;1/3 cup (light) brown&lt;/li&gt;&#xA;&lt;li&gt;sugar&lt;/li&gt;&#xA;&lt;li&gt;1/4 tsp crushed red&lt;/li&gt;&#xA;&lt;li&gt;pepper&lt;/li&gt;&#xA;&lt;li&gt;2 (green / yellow)&lt;/li&gt;&#xA;&lt;li&gt;onions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;cook rice in instant pot&lt;/li&gt;&#xA;&lt;li&gt;put ground beef in pan and cook till brown&lt;/li&gt;&#xA;&lt;li&gt;mix flavorings and add to pan&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title>Peanut Butter Pie</title>
-      <link>//localhost:1313/docs/recipes/dessert/peanut-butter-pie/</link>
-      <pubDate>Mon, 03 Mar 2025 21:15:29 -0600</pubDate>
-      <guid>//localhost:1313/docs/recipes/dessert/peanut-butter-pie/</guid>
-      <description>&lt;p&gt;20 minutes | 6 servings&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients &lt;a href=&#34;#ingredients&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;.5 cup peanut butter&lt;/li&gt;&#xA;&lt;li&gt;.5 cup powdered sugar&lt;/li&gt;&#xA;&lt;li&gt;1 block cream cheese&lt;/li&gt;&#xA;&lt;li&gt;1 container cool whip&lt;/li&gt;&#xA;&lt;li&gt;1 graham cracker crust&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;steps&#34;&gt;Steps &lt;a href=&#34;#steps&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;&#xA;&lt;li&gt;throw in bowl and blend it&lt;/li&gt;&#xA;&lt;li&gt;refrigerate it&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title>White Chicken Chili</title>
-      <link>//localhost:1313/docs/recipes/soups/white-chicken-chili/</link>
-      <pubDate>Mon, 03 Mar 2025 21:15:29 -0600</pubDate>
-      <guid>//localhost:1313/docs/recipes/soups/white-chicken-chili/</guid>
-      <description>&lt;p&gt;8 people (1 cup servings)&lt;/p&gt;&#xA;&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients &lt;a href=&#34;#ingredients&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;2 large chicken breasts&lt;/li&gt;&#xA;&lt;li&gt;15 oz can black beans, drained and rinsed&lt;/li&gt;&#xA;&lt;li&gt;15 oz can white beans, drained&lt;/li&gt;&#xA;&lt;li&gt;1 medium onion, chopped&lt;/li&gt;&#xA;&lt;li&gt;15 oz can corn with juice&lt;/li&gt;&#xA;&lt;li&gt;10 oz can rotel diced tomatoes with gree nchilis (with juice)&lt;/li&gt;&#xA;&lt;li&gt;1/2 cup chicken broth or stock&lt;/li&gt;&#xA;&lt;li&gt;1 tsp chili powder&lt;/li&gt;&#xA;&lt;li&gt;1 tsp cumin powder&lt;/li&gt;&#xA;&lt;li&gt;0.4 oz packet ranch dip / dressing mix&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;optional-toppings&#34;&gt;optional toppings &lt;a href=&#34;#optional-toppings&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;1/2 cup chopped cilantro&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Logan Rosentreter</title><link>LoRose2.github.io/</link><description>Recent content on Logan Rosentreter</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 21:15:29 -0600</lastBuildDate><atom:link href="LoRose2.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Arrows Con Polo</title><link>LoRose2.github.io/docs/recipes/dinner/arroz-con-pollo/</link><pubDate>Mon, 03 Mar 2025 21:15:29 -0600</pubDate><guid>LoRose2.github.io/docs/recipes/dinner/arroz-con-pollo/</guid><description>&lt;p>30 minutes | 4 servings&lt;/p>
+&lt;h2 id="ingredients0">Ingredients[^0] &lt;a href="#ingredients0" class="anchor" aria-hidden="true">&lt;i class="material-icons align-middle">link&lt;/i>&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>4 tbsp olive oil&lt;/li>
+&lt;li>3 chicken breasts&lt;/li>
+&lt;li>2 tsp salt&lt;/li>
+&lt;li>1/4 tsp black pepper&lt;/li>
+&lt;li>1 chopped onion&lt;/li>
+&lt;li>1 chopped green pepper&lt;/li>
+&lt;li>1 chopped red pepper&lt;/li>
+&lt;li>3 tsp garlic powder&lt;/li>
+&lt;li>2 cups rice&lt;/li>
+&lt;li>2 tsp cumin&lt;/li>
+&lt;li>2.5 cups hot water&lt;/li>
+&lt;/ul>
+&lt;h2 id="steps">Steps &lt;a href="#steps" class="anchor" aria-hidden="true">&lt;i class="material-icons align-middle">link&lt;/i>&lt;/a>&lt;/h2>&lt;ol>
+&lt;li>cook chicken in a pan till ready&lt;/li>
+&lt;li>cook peppers and onions in a pan till ready&lt;/li>
+&lt;li>cook rice in instant pot (add chicken and peppers and onions to instant pot)&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>I like chili lime seasoning with it&lt;/p></description></item><item><title>Babe Ruth Bars</title><link>LoRose2.github.io/docs/recipes/dessert/babe-ruth-bars/</link><pubDate>Mon, 03 Mar 2025 21:15:29 -0600</pubDate><guid>LoRose2.github.io/docs/recipes/dessert/babe-ruth-bars/</guid><description>&lt;p>15 minutes | 12 servings&lt;/p>
+&lt;h2 id="ingredients">Ingredients &lt;a href="#ingredients" class="anchor" aria-hidden="true">&lt;i class="material-icons align-middle">link&lt;/i>&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>
+&lt;p>1 cup sugar&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>1 cup corn syrup&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>1.5 cup peanut butter&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>4 cup rice crispies&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>1 cup chocolate chips&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>1 cup butterscotch chips&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="steps">Steps &lt;a href="#steps" class="anchor" aria-hidden="true">&lt;i class="material-icons align-middle">link&lt;/i>&lt;/a>&lt;/h2>&lt;ol>
+&lt;li>
+&lt;p>bring to a boil the sugar and corn syrup&lt;/p>
+&lt;ul>
+&lt;li>I think you have to cook it slowly or else it burns and the rice crispies are built like bricks&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>add peanut butter and rice crispies&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>press into 9x13 pan&lt;/p></description></item><item><title>Korean ground Beef</title><link>LoRose2.github.io/docs/recipes/dinner/korean-ground-beef/</link><pubDate>Mon, 03 Mar 2025 21:15:29 -0600</pubDate><guid>LoRose2.github.io/docs/recipes/dinner/korean-ground-beef/</guid><description>&lt;p>20 mins | 4 servings&lt;/p>
+&lt;h2 id="ingredients">Ingredients &lt;a href="#ingredients" class="anchor" aria-hidden="true">&lt;i class="material-icons align-middle">link&lt;/i>&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>2 lb ground beef&lt;/li>
+&lt;li>4 tsp Garlic Powder&lt;/li>
+&lt;li>2 cups (spanish) rice&lt;/li>
+&lt;/ul>
+&lt;h2 id="flavoring">Flavoring &lt;a href="#flavoring" class="anchor" aria-hidden="true">&lt;i class="material-icons align-middle">link&lt;/i>&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>1 tbsp ginger&lt;/li>
+&lt;li>2 tsp sesame oil&lt;/li>
+&lt;li>1/2 cup soy sauce&lt;/li>
+&lt;li>1/3 cup (light) brown&lt;/li>
+&lt;li>sugar&lt;/li>
+&lt;li>1/4 tsp crushed red&lt;/li>
+&lt;li>pepper&lt;/li>
+&lt;li>2 (green / yellow)&lt;/li>
+&lt;li>onions&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>cook rice in instant pot&lt;/li>
+&lt;li>put ground beef in pan and cook till brown&lt;/li>
+&lt;li>mix flavorings and add to pan&lt;/li>
+&lt;/ol></description></item><item><title>Peanut Butter Pie</title><link>LoRose2.github.io/docs/recipes/dessert/peanut-butter-pie/</link><pubDate>Mon, 03 Mar 2025 21:15:29 -0600</pubDate><guid>LoRose2.github.io/docs/recipes/dessert/peanut-butter-pie/</guid><description>&lt;p>20 minutes | 6 servings&lt;/p>
+&lt;h2 id="ingredients">Ingredients &lt;a href="#ingredients" class="anchor" aria-hidden="true">&lt;i class="material-icons align-middle">link&lt;/i>&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>.5 cup peanut butter&lt;/li>
+&lt;li>.5 cup powdered sugar&lt;/li>
+&lt;li>1 block cream cheese&lt;/li>
+&lt;li>1 container cool whip&lt;/li>
+&lt;li>1 graham cracker crust&lt;/li>
+&lt;/ul>
+&lt;h2 id="steps">Steps &lt;a href="#steps" class="anchor" aria-hidden="true">&lt;i class="material-icons align-middle">link&lt;/i>&lt;/a>&lt;/h2>&lt;ol>
+&lt;li>throw in bowl and blend it&lt;/li>
+&lt;li>refrigerate it&lt;/li>
+&lt;/ol></description></item><item><title>White Chicken Chili</title><link>LoRose2.github.io/docs/recipes/soups/white-chicken-chili/</link><pubDate>Mon, 03 Mar 2025 21:15:29 -0600</pubDate><guid>LoRose2.github.io/docs/recipes/soups/white-chicken-chili/</guid><description>&lt;p>8 people (1 cup servings)&lt;/p>
+&lt;h2 id="ingredients">Ingredients &lt;a href="#ingredients" class="anchor" aria-hidden="true">&lt;i class="material-icons align-middle">link&lt;/i>&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>2 large chicken breasts&lt;/li>
+&lt;li>15 oz can black beans, drained and rinsed&lt;/li>
+&lt;li>15 oz can white beans, drained&lt;/li>
+&lt;li>1 medium onion, chopped&lt;/li>
+&lt;li>15 oz can corn with juice&lt;/li>
+&lt;li>10 oz can rotel diced tomatoes with gree nchilis (with juice)&lt;/li>
+&lt;li>1/2 cup chicken broth or stock&lt;/li>
+&lt;li>1 tsp chili powder&lt;/li>
+&lt;li>1 tsp cumin powder&lt;/li>
+&lt;li>0.4 oz packet ranch dip / dressing mix&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/li>
+&lt;/ul>
+&lt;h2 id="optional-toppings">optional toppings &lt;a href="#optional-toppings" class="anchor" aria-hidden="true">&lt;i class="material-icons align-middle">link&lt;/i>&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>
+&lt;p>1/2 cup chopped cilantro&lt;/p></description></item></channel></rss>
