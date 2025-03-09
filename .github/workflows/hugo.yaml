@@ -54,11 +54,14 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
+      - name: Verify Hugo build output
+        run: ls -l ./public
+
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v1
         with: 
-          # name: my-artifact-${{ matrix.runs-on }}
           path: ./public
+          # name: my-artifact-${{ matrix.runs-on }}
           # path: file-${{ matrix.runs-on }}.txt
         # uses: actions/upload-pages-artifact@v1
         # with:
