@@ -33,7 +33,7 @@ hero:
   cta2Button:
     icon: restaurant_menu # want chef_hat to work here
     btnText: "Recipes"
-    url: "/docs/Recipes"
+    url: "/docs/Recipes/"
 
 # Feature Grid
 featureGrid:

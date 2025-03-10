@@ -39,6 +39,8 @@ toc: true
 
  - onions
 
+## Steps
+
 1. cook rice in instant pot
 
 1. put ground beef in pan and cook till brown
