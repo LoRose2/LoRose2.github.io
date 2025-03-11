@@ -15,7 +15,7 @@ toc: true
 
 ### Crust
 
-- [ ] 48 Oreo cookies finely crushed
+- 48 Oreo cookies finely crushed
 
 - 10 tablespoons salted butter melted
 
