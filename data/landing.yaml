@@ -25,6 +25,12 @@ hero:
     alt: "" # Optional but recommended
     boxShadow: true # default 'false' (excludes .svg images)
     rounded: true # round the image corners? default 'false' (excludes .svg images)
+  
+  backgroundImage: # 4
+        path: "images/backgrounds"
+        filename:
+            desktop: "gradient-desktop.webp"
+            mobile: "gradient-mobile.webp"
 
   ctaButton:
     icon: restaurant_menu
