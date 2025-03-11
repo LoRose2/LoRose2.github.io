@@ -12,6 +12,7 @@ toc: true
 35 minutes | 6 servings
 
 ## Ingredients[^1]
+
 - 3 large chicken breasts cut in half lengthwise
 
 - Salt & pepper to taste
@@ -33,6 +34,7 @@ toc: true
 - 6 slices Muenster cheese 
 
 ## Steps
+
 1. I recommend prepping all ingredients prior to getting this recipe started. Preheat your oven to 375F and position the rack in the top third of the oven.
 
 1. Cut the chicken breasts in half lengthwise so you've got 6 thinner cutlets. Generously season both sides of each piece with salt & pepper and coat each piece in flour. Shake off any excess flour.
