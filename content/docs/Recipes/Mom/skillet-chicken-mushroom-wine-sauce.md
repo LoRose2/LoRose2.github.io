@@ -1,6 +1,6 @@
 ---
 weight: 999
-title: "SKillet Chicken and Mushroom Wine Sauce"
+title: "Skillet Chicken and Mushroom Wine Sauce"
 description: ""
 icon: "article"
 date: "2025-03-10T21:51:18-05:00"
