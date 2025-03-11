@@ -46,6 +46,8 @@ toc: true
 
 - 1/2 teaspoon vanilla extract
 
+## Steps
+
 1. Warm milk to around 110 degrees F. I like to do this by placing milk in a microwave safe bowl and microwaving it for 40-45 seconds. It should be like warm bath water. Transfer warm milk to the bowl of an electric mixer and sprinkle yeast on top. Add in sugar, egg, egg yolk and melted butter. Mix until well combined. Next stir in flour and salt with a wooden spoon until a dough begins to form.
 
 1. Place dough hook on stand mixer and knead dough on medium speed for 8 minutes. Dough should form into a nice ball and be slightly sticky. If it's TOO sticky (meaning it's sticking to the bottom of the mixer, add in 2 tablespoons more bread flour.) If you don’t want to use an electric mixer, you can use your hands to knead the dough for 8-10 minutes on a well-floured surface.
