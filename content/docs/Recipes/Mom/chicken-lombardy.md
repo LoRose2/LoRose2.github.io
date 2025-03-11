@@ -1,10 +1,10 @@
 ---
 weight: 999
-title: "Mom"
+title: "Chicken Lombardy"
 description: ""
 icon: "article"
-date: "2025-03-10T21:51:09-05:00"
-lastmod: "2025-03-10T21:51:09-05:00"
+date: "2025-03-10T22:07:46-05:00"
+lastmod: "2025-03-10T22:07:46-05:00"
 draft: false
 toc: true
 ---
@@ -12,6 +12,7 @@ toc: true
 35 minutes | 6 servings
 
 ## Ingredients[^1]
+
 - 8 oz pkg sliced baby bella mushrooms
 
 - 2 tbsp butter, melted
@@ -37,6 +38,7 @@ toc: true
 - 2-3 green onions, thinly sliced
 
 ## Steps
+
 1. Cut each chicken breast evenly in half, lengthwise. One at a time, place a piece of chicken in between two sheets of heavy duty plastic wrap. Using the flat side of a meat mallet, flatten the breast out to a 1/4" thickness. Repeat for all the pieces of chicken.
 
 1. Melt the two tablespoons of butter in a large skillet over medium heat. Add in the mushrooms and saute for 3-5 minutes, or until tender. Remove the cooked mushrooms to a waiting plate or bowl, and set aside.

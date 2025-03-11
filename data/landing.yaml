@@ -21,19 +21,19 @@ hero:
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
-    filename: "lotus_docs_screenshot.png" # filename of your hero image (including file extension)
+    filename: "restaurant-image.png" # filename of your hero image (including file extension)
     alt: "" # Optional but recommended
     boxShadow: true # default 'false' (excludes .svg images)
     rounded: true # round the image corners? default 'false' (excludes .svg images)
 
   ctaButton:
-    icon: link
-    btnText: "Contents"
-    url: "/docs/"
-  cta2Button:
-    icon: restaurant_menu # want chef_hat to work here
+    icon: restaurant_menu
     btnText: "Recipes"
-    url: "/docs/Recipes/"
+    url: "/docs/"
+  # cta2Button:
+  #   icon: restaurant_menu # want chef_hat to work here
+  #   btnText: "Recipes"
+  #   url: "/docs/recipes/"
 
 # Feature Grid
 featureGrid:
