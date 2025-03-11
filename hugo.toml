@@ -32,3 +32,4 @@ enableEmoji = true
 [params.docs] 
   alwaysopen = true
   darkMode = true
+  themeColor = "cardinal"
