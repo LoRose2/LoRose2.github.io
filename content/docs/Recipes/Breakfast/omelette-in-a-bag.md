@@ -1,6 +1,6 @@
 ---
 weight: 999
-title: "Omelete in a Bag"
+title: "Omelethjte in a Bag"
 description: ""
 icon: "article"
 date: "2025-03-14T18:38:01-05:00"
@@ -40,7 +40,7 @@ toc: true
 
 1. Bring a large pot of water to a boil. Place the bag (up to 8 bags at a time) into the boiling water. Cook for exactly 13 minutes. 
 
-1. Open the bag, and let the omelet roll out onto a plate. The omelet should roll out easily. 
+1. Open the bag, and let the omelette roll out onto a plate. The omelette should roll out easily. 
 
 
 # Notes
