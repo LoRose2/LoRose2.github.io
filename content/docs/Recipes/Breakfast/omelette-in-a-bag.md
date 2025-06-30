@@ -1,6 +1,6 @@
 ---
 weight: 999
-title: "Omelethjte in a Bag"
+title: "Omelette in a Bag"
 description: ""
 icon: "article"
 date: "2025-03-14T18:38:01-05:00"
