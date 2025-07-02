@@ -1,4 +1,4 @@
-# "Omelette in a Bag"
+# Omelette in a Bag
 
 35 minutes | 6 servings
 
