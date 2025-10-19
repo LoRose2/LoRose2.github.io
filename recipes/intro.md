@@ -7,3 +7,7 @@ sidebar_position: 1
 A list of recipes I liked or plan on trying eventually
 
 The guides are split into categories, which can be found in the sidebar, and also below:
+
+## Resources
+
+- https://docusaurus.io/docs
