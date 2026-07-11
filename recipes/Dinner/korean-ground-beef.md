@@ -27,17 +27,11 @@ toc: true
 
  - 1/2 cup soy sauce
 
- - 1/3 cup (light) brown
+ - 1/3 cup (light) brown sugar
 
- - sugar
+ - 1/4 tsp crushed red pepper
 
- - 1/4 tsp crushed red
-
- - pepper
-
- - 2 (green / yellow)
-
- - onions
+ - 2 (green / yellow) onions
 
 ## Steps
 
