@@ -1,6 +1,6 @@
 ---
 weight: 999
-title: "White Chicken Chili"
+title: "Bruschetta Chicken Bowls"
 description: ""
 icon: "article"
 date: "2025-03-03T21:15:29-06:00"
