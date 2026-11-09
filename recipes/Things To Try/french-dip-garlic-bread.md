@@ -1,6 +1,6 @@
 ---
 weight: 999
-title: "Loaded Garlic Bread"
+title: "French Dip Garlic Bread"
 description: ""
 icon: "article"
 date: "2025-03-03T21:15:29-06:00"
@@ -46,5 +46,7 @@ toc: true
 7. Slice into portions and serve with the warm au jus for dipping.
 
 # Notes
+
+- good but maybe causes acid reflux
 
 [^1]: https://cookwithgabe.com/french-dip-garlic-bread-recipe/
