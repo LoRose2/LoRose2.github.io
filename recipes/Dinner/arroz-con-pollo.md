@@ -11,7 +11,7 @@ toc: true
 
 30 minutes | 4 servings
 
-## Ingredients[^0]
+## Ingredients [^1]
 
  - 4 tbsp olive oil
 
@@ -46,3 +46,5 @@ toc: true
 > I like chili lime seasoning with it
 
 # Notes
+
+[^1]: college instapot cookbook
